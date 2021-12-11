@@ -7,3 +7,9 @@
 > Ssss
 
 Ok
+
+```pascal
+Program prova;
+Begin
+End.
+```
